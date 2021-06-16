@@ -1,2 +1,2 @@
-#MyApp
+#MySample
 This is a test.
